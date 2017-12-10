@@ -1,0 +1,53 @@
+/* audiowide */
+
+@font-face {
+	font-family: 'audiowideregular';
+	src: url('fonts/audiowide/audiowide-regular-webfont.woff2') format('woff2'),
+		 url('fonts/audiowide/audiowide-regular-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* mavenpro */
+
+@font-face {
+	font-family: 'mavenpromedium';
+	src: url('fonts/mavenpro/mavenpro-medium-webfont.woff2') format('woff2'),
+		 url('fonts/mavenpro/mavenpro-medium-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* exo */
+
+@font-face {
+	font-family: 'exobold';
+	src: url('fonts/exo/exo-bold-webfont.woff2') format('woff2'),
+		 url('fonts/exo/exo-bold-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'exobolditalic';
+	src: url('fonts/exo/exo-bolditalic-webfont.woff2') format('woff2'),
+		 url('fonts/exo/exo-bolditalic-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'exoitalic';
+	src: url('fonts/exo/exo-italic-webfont.woff2') format('woff2'),
+		 url('fonts/exo/exo-italic-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'exo';
+	src: url('fonts/exo/exo-regular-webfont.woff2') format('woff2'),
+		 url('fonts/exo/exo-regular-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}

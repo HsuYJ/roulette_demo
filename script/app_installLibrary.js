@@ -1,0 +1,13 @@
+LibraryManager
+.setFolderPath('./script/')
+.install('browserDetect.js')
+.install('polyfill_performanceNow.js')
+.install('polyfill_raf.js')
+.install('windowIsReady.js')
+.install('ArrayUtility.js')
+.install('bindEvent.js')
+.install('radian.js')
+.install('imgToCanvas.js')
+.install('imgLoader.js')
+.install('stage.js')
+.install('app.js');
